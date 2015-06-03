@@ -1,0 +1,5 @@
+Simulation of a Birth and Assassination Process
+
+The process being studied is a variant of a branching process. An example of this is the birth and assassination process. Given various input paramaters, lambda and kappa, the above process is simulated and the number of offspring and number of generations a particular family survives is determined. 
+
+Please see report.html for the final report and findings.
